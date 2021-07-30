@@ -1,8 +1,8 @@
-baseURL: /
+baseURL: https://live-apero.netlify.app/
 theme: hugo-apero
-languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+languageCode: pt
+title: Meu blog feito na live
+author: Variantes
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -42,31 +42,20 @@ params:
     - project
     - talk
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal: Youtube
+  orgName: Geocast
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
       icon_pack: fab
       url: https://github.com/apreshill/apero
-    - icon: facebook-square
-      icon_pack: fab
-      url: https://www.facebook.com/hashtag/ap%C3%A9ro
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
-    - icon: twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
+    - icon: lattes
       icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
-    - icon: orcid
-      icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
+      url: http://lattes.cnpq.br/5150665880581477
+    - icon: envelope
+      icon_pack: fa
+      url: mailto:milz.bea@gmail.com
+
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
